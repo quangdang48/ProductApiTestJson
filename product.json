@@ -1,0 +1,82 @@
+[
+  {
+    "ProductNumber": "P001",
+    "Name": "Sản phẩm A",
+    "Summary": "Hàng tiêu dùng",
+    "Customer": "Khách 1",
+    "ProductClass": "20KG",
+    "status": "Active"
+  },
+  {
+    "ProductNumber": "P002",
+    "Name": "Sản phẩm B",
+    "Summary": "Linh kiện điện tử",
+    "Customer": "Khách 2",
+    "ProductClass": "<10KG",
+    "status": "InActive"
+  },
+  {
+    "ProductNumber": "P003",
+    "Name": "Sản phẩm C",
+    "Summary": "Bao bì nhựa",
+    "Customer": "Khách 3",
+    "ProductClass": "BAO BÌ",
+    "status": "Pending"
+  },
+  {
+    "ProductNumber": "P004",
+    "Name": "Sản phẩm D",
+    "Summary": "Thực phẩm khô",
+    "Customer": "Khách 4",
+    "ProductClass": "50KG",
+    "status": "Active"
+  },
+  {
+    "ProductNumber": "P005",
+    "Name": "Sản phẩm E",
+    "Summary": "Đồ gia dụng",
+    "Customer": "Khách 5",
+    "ProductClass": "30KG",
+    "status": "InActive"
+  },
+  {
+    "ProductNumber": "P006",
+    "Name": "Sản phẩm F",
+    "Summary": "Sản phẩm thử nghiệm",
+    "Customer": "Khách 6",
+    "ProductClass": "15KG",
+    "status": "Pending"
+  },
+  {
+    "ProductNumber": "P007",
+    "Name": "Sản phẩm G",
+    "Summary": "Thực phẩm đông lạnh",
+    "Customer": "Khách 7",
+    "ProductClass": "THÙNG LỚN",
+    "status": "Active"
+  },
+  {
+    "ProductNumber": "P008",
+    "Name": "Sản phẩm H",
+    "Summary": "Phụ tùng cơ khí",
+    "Customer": "Khách 8",
+    "ProductClass": "25KG",
+    "status": "InActive"
+  },
+  {
+    "ProductNumber": "P009",
+    "Name": "Sản phẩm I",
+    "Summary": "Hóa chất công nghiệp",
+    "Customer": "Khách 9",
+    "ProductClass": "CAN 5L",
+    "status": "Pending"
+  },
+  {
+    "ProductNumber": "P010",
+    "Name": "Sản phẩm J",
+    "Summary": "Đồ uống đóng chai",
+    "Customer": "Khách 10",
+    "ProductClass": "12 CHAI",
+    "status": "Active"
+  }
+]
