@@ -1,0 +1,52 @@
+[
+  {
+    "Code": "P001",
+    "Name": "Sản phẩm A",
+    "Status": "Active"
+  },
+  {
+    "Code": "P002",
+    "Name": "Sản phẩm B",
+    "Status": "InActive"
+  },
+  {
+    "Code": "P003",
+    "Name": "Sản phẩm C",
+    "Status": "Pending"
+  },
+  {
+    "Code": "P004",
+    "Name": "Sản phẩm D",
+    "Status": "Active"
+  },
+  {
+    "Code": "P005",
+    "Name": "Sản phẩm E",
+    "Status": "InActive"
+  },
+  {
+    "Code": "P006",
+    "Name": "Sản phẩm F",
+    "Status": "Pending"
+  },
+  {
+    "Code": "P007",
+    "Name": "Sản phẩm G",
+    "Status": "Active"
+  },
+  {
+    "Code": "P008",
+    "Name": "Sản phẩm H",
+    "Status": "InActive"
+  },
+  {
+    "Code": "P009",
+    "Name": "Sản phẩm I",
+    "Status": "Pending"
+  },
+  {
+    "Code": "P010",
+    "Name": "Sản phẩm J",
+    "Status": "Active"
+  }
+]
