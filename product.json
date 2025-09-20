@@ -1,82 +1,77 @@
 [
   {
-    "ProductNumber": "P001",
-    "Name": "Sản phẩm A",
-    "Summary": "Hàng tiêu dùng",
-    "Customer": "Khách 1",
-    "ProductClass": "20KG",
-    "status": "Active"
+    "productNumber": "PRD-0001",
+    "name": "Premium Cold Storage Box",
+    "description": "High quality insulated box for food storage",
+    "productClass": "Storage",
+    "customer": "ABC Food Company",
+    "isActive": true,
+    "temperatureLevel": "-18°C",
+    "stockUnit": "Box",
+    "safetySalesLifeDay": 90,
+    "weight": 2.5,
+    "quantity": 150,
+    "imageName": "cold-box.jpg",
+    "imagePath": "https://res.cloudinary.com/demo/image/upload/v1690000000/products/cold-box.jpg"
   },
   {
-    "ProductNumber": "P002",
-    "Name": "Sản phẩm B",
-    "Summary": "Linh kiện điện tử",
-    "Customer": "Khách 2",
-    "ProductClass": "<10KG",
-    "status": "InActive"
+    "productNumber": "PRD-0002",
+    "name": "Smart Temperature Sensor",
+    "description": "Wireless sensor for monitoring warehouse temperature",
+    "productClass": "Sensor",
+    "customer": "XYZ Logistics",
+    "isActive": false,
+    "temperatureLevel": "0–5°C",
+    "stockUnit": "Piece",
+    "safetySalesLifeDay": 365,
+    "weight": 0.2,
+    "quantity": 500,
+    "imageName": "temp-sensor.png",
+    "imagePath": "https://res.cloudinary.com/demo/image/upload/v1690000000/products/temp-sensor.png"
   },
   {
-    "ProductNumber": "P003",
-    "Name": "Sản phẩm C",
-    "Summary": "Bao bì nhựa",
-    "Customer": "Khách 3",
-    "ProductClass": "BAO BÌ",
-    "status": "Pending"
+    "productNumber": "PRD-0003",
+    "name": "Heavy Duty Pallet",
+    "description": "Durable pallet for industrial storage",
+    "productClass": "Equipment",
+    "customer": "Mega Warehouse",
+    "isActive": true,
+    "temperatureLevel": "N/A",
+    "stockUnit": "Pallet",
+    "safetySalesLifeDay": 720,
+    "weight": 18.0,
+    "quantity": 75,
+    "imageName": "pallet.jpg",
+    "imagePath": "https://res.cloudinary.com/demo/image/upload/v1690000000/products/pallet.jpg"
   },
   {
-    "ProductNumber": "P004",
-    "Name": "Sản phẩm D",
-    "Summary": "Thực phẩm khô",
-    "Customer": "Khách 4",
-    "ProductClass": "50KG",
-    "status": "Active"
+    "productNumber": "PRD-0004",
+    "name": "Frozen Meat Package",
+    "description": "Vacuum packed premium beef for export",
+    "productClass": "Food",
+    "customer": "Global Foods Ltd",
+    "isActive": true,
+    "temperatureLevel": "-20°C",
+    "stockUnit": "Pack",
+    "safetySalesLifeDay": 180,
+    "weight": 1.2,
+    "quantity": 300,
+    "imageName": "frozen-meat.jpg",
+    "imagePath": "https://res.cloudinary.com/demo/image/upload/v1690000000/products/frozen-meat.jpg"
   },
   {
-    "ProductNumber": "P005",
-    "Name": "Sản phẩm E",
-    "Summary": "Đồ gia dụng",
-    "Customer": "Khách 5",
-    "ProductClass": "30KG",
-    "status": "InActive"
-  },
-  {
-    "ProductNumber": "P006",
-    "Name": "Sản phẩm F",
-    "Summary": "Sản phẩm thử nghiệm",
-    "Customer": "Khách 6",
-    "ProductClass": "15KG",
-    "status": "Pending"
-  },
-  {
-    "ProductNumber": "P007",
-    "Name": "Sản phẩm G",
-    "Summary": "Thực phẩm đông lạnh",
-    "Customer": "Khách 7",
-    "ProductClass": "THÙNG LỚN",
-    "status": "Active"
-  },
-  {
-    "ProductNumber": "P008",
-    "Name": "Sản phẩm H",
-    "Summary": "Phụ tùng cơ khí",
-    "Customer": "Khách 8",
-    "ProductClass": "25KG",
-    "status": "InActive"
-  },
-  {
-    "ProductNumber": "P009",
-    "Name": "Sản phẩm I",
-    "Summary": "Hóa chất công nghiệp",
-    "Customer": "Khách 9",
-    "ProductClass": "CAN 5L",
-    "status": "Pending"
-  },
-  {
-    "ProductNumber": "P010",
-    "Name": "Sản phẩm J",
-    "Summary": "Đồ uống đóng chai",
-    "Customer": "Khách 10",
-    "ProductClass": "12 CHAI",
-    "status": "Active"
+    "productNumber": "PRD-0005",
+    "name": "Industrial Freezer Unit",
+    "description": "Large capacity freezer for warehouse storage",
+    "productClass": "Equipment",
+    "customer": "CoolTech Inc",
+    "isActive": true,
+    "temperatureLevel": "-25°C",
+    "stockUnit": "Unit",
+    "safetySalesLifeDay": 1095,
+    "weight": 250.0,
+    "quantity": 10,
+    "imageName": "industrial-freezer.jpg",
+    "imagePath": "https://res.cloudinary.com/demo/image/upload/v1690000000/products/industrial-freezer.jpg"
   }
 ]
